@@ -1,0 +1,4 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "leach" "leach" "2" "942x663+100+100:normal"
+inspector "Leach" "Leach" "2" "565x342+75+75:zoomed"
+
